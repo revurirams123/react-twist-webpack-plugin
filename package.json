@@ -22,13 +22,13 @@
   },
   "peerDependencies": {
     "@twist/core": "git+https://git@github.com/revurirams123/twist.git",
-    "@twist/react": "git+https://git@github.com/revurirams123/twist-router.git",
+    "@twist/react": "git+https://git@github.com/revurirams123/react-twist.git",
     "webpack": "^3.0.0"
   },
   "devDependencies": {
     "@twist/core": "git+https://git@github.com/revurirams123/twist.git",
     "@twist/eslint-plugin-core": "^0.1.2",
-    "@twist/react": "^0.1.0",
+    "@twist/react": "git+https://git@github.com/revurirams123/react-twist.git",
     "babel-eslint": "7.2.3",
     "eslint": "4.3.0",
     "eslint-plugin-babel": "4.1.2",
